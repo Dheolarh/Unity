@@ -36,7 +36,7 @@ Fast-paced chase game driven by timing, movement, and objective completion.
 
 ---
 
-### 7. [Challenge Soccer Ball](Challenge-Soccer-ball/) - [OG Repo](https://github.com/Dheolarh/Challenge-Soccer-ball)
+### 7. [Challenge Soccer Ball](Soccer-ball/) - [OG Repo](https://github.com/Dheolarh/Challenge-Soccer-ball)
 Soccer-inspired challenge game focused on precision control and obstacle timing.
 
 ---

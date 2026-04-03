@@ -4,11 +4,32 @@
 
 [![View Repository](https://img.shields.io/badge/View-Original%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Penguin-Dash)
 
-![Game Splash Screen](https://opengraph.githubassets.com/1/Dheolarh/Penguin-Dash)
+![Penguin Dash Banner](images/Banner.png)
 
 ## About the Game
 
 Penguin Dash is a 3D Endless Runner project in my game development portfolio. The gameplay design emphasizes a simple core loop, responsive controls, and replay value.
+
+## Features
+
+- Shop System
+- Unity Legacy Ads
+
+## Technical Implementation
+
+### Implementations and Programming
+
+- Unity New Input System
+- Cinemachine
+- Shader Graphs
+
+### Programming
+
+- Object Pooling (for optimization)
+- State Machines
+- Singletons
+- Observer System
+- Serialized Saving
 
 ## Technical Overview
 
@@ -18,11 +39,15 @@ Penguin Dash is a 3D Endless Runner project in my game development portfolio. Th
 
 ## Screenshots
 
-Add screenshots in the [images](images/) folder and link them here.
+Portrait screenshots displayed in a horizontal scroll layout.
 
-![Screenshot 1](images/screenshot-1.png)
-![Screenshot 2](images/screenshot-2.png)
-![Screenshot 3](images/screenshot-3.png)
+<div style="display:flex; gap:12px; overflow-x:auto; padding:8px 0;">
+	<img src="images/gameplay1.png" alt="Gameplay screenshot 1" width="220" />
+	<img src="images/gameplay2.png" alt="Gameplay screenshot 2" width="220" />
+	<img src="images/menu.png" alt="Menu screenshot" width="220" />
+	<img src="images/shop.png" alt="Shop screenshot" width="220" />
+	<img src="images/tutorial.png" alt="Tutorial screenshot" width="220" />
+</div>
 
 ## Tech Used
 
@@ -32,6 +57,6 @@ C#, ShaderLab, HLSL
 
 December 2024
 
-## Repository
+## Tags
 
-- **Original Repository:** https://github.com/Dheolarh/Penguin-Dash
+#arcade #other
