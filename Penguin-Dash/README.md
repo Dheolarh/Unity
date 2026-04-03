@@ -2,7 +2,7 @@
 
 3D runner game where players dodge obstacles, collect momentum, and survive as long as possible.
 
-[![View Repository](https://img.shields.io/badge/View-Original%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Penguin-Dash)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Penguin-Dash) [![Play Game](https://img.shields.io/badge/Play%20Game-00A86B?style=for-the-badge&logo=gamejolt&logoColor=white)](https://gamejolt.com/games/penguindash/974246)
 
 ![Penguin Dash Banner](images/Banner.png)
 
@@ -60,3 +60,4 @@ December 2024
 ## Tags
 
 #arcade #other
+

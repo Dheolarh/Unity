@@ -6,52 +6,53 @@ This repository is my game development portfolio, bringing together all of my pu
 
 ## Games
 
-### 1. [Penguin Dash](Penguin-Dash/) - [OG Repo](https://github.com/Dheolarh/Penguin-Dash)
+### 1. [Penguin Dash](Penguin-Dash/)
 3D runner game focused on obstacle avoidance, movement flow, and replayability.
 
 ---
 
-### 2. [Word Duel](Word-Duel/) - [OG Repo](https://github.com/Dheolarh/Word-Duel)
+### 2. [Word Duel](Word-Duel/)
 A multiplayer word guessing game with competitive rounds and score tracking.
 
 ---
 
-### 3. [GBFoods](GBFoods/) - [OG Repo](https://github.com/Dheolarh/GBFoods)
+### 3. [GBFoods](GBFoods/)
 Interactive game prototype with gameplay loops centered on player progression.
 
 ---
 
-### 4. [Hero of the North](hero-of-the-north/) - [OG Repo](https://github.com/Dheolarh/hero-of-the-north)
+### 4. [Hero of the North](hero-of-the-north/)
 Action-adventure project with level progression, combat mechanics, and exploration.
 
 ---
 
-### 5. [Dungeon Odyssey](Dungeon-Odyssey/) - [OG Repo](https://github.com/Dheolarh/Dungeon-Odyssey)
+### 5. [Dungeon Odyssey](Dungeon-Odyssey/)
 Dungeon exploration game featuring movement, encounter design, and environmental challenge.
 
 ---
 
-### 6. [Catch That Thief](Catch-That-Thief/) - [OG Repo](https://github.com/Dheolarh/Catch-That-Thief)
+### 6. [Catch That Thief](Catch-That-Thief/)
 Fast-paced chase game driven by timing, movement, and objective completion.
 
 ---
 
-### 7. [Challenge Soccer Ball](Soccer-ball/) - [OG Repo](https://github.com/Dheolarh/Challenge-Soccer-ball)
+### 7. [Challenge Soccer Ball](Soccer-ball/)
 Soccer-inspired challenge game focused on precision control and obstacle timing.
 
 ---
 
-### 8. [Sumo Ball](Sumo-Ball/) - [OG Repo](https://github.com/Dheolarh/Sumo-Ball)
+### 8. [Sumo Ball](Sumo-Ball/)
 Physics-based arena game where players battle for survival on a floating stage.
 
 ---
 
-### 9. [Barrier Dash](Barrier-Dash/) - [OG Repo](https://github.com/Dheolarh/Barrier-Dash)
+### 9. [Barrier Dash](Barrier-Dash/)
 2D obstacle course game with progressive difficulty and reflex-focused gameplay.
 
 ---
 
-### 10. [Clicky Crates](Clicky-Crates/) - [OG Repo](https://github.com/Dheolarh/Clicky-Crates)
+### 10. [Clicky Crates](Clicky-Crates/)
 Arcade click-and-react game centered on timing, interaction speed, and scoring.
 
 ---
+

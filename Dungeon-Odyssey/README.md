@@ -2,7 +2,7 @@
 
 Dungeon exploration experience with environment interaction, movement, and challenge encounters.
 
-[![View Original Repository](https://img.shields.io/badge/View-Original%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Dungeon-Odyssey)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Dungeon-Odyssey) [![Play Game](https://img.shields.io/badge/Play%20Game-00A86B?style=for-the-badge&logo=gamejolt&logoColor=white)](#)
 
 ![Game Splash Screen](https://opengraph.githubassets.com/1/Dheolarh/Dungeon-Odyssey)
 
@@ -32,6 +32,4 @@ C#, ShaderLab, HLSL
 
 May 2025
 
-## Repository
 
-- **Original Repository:** https://github.com/Dheolarh/Dungeon-Odyssey

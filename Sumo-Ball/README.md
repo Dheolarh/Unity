@@ -2,7 +2,7 @@
 
 Ball sumo wrestling on a floating island with physics-based push-and-survive gameplay.
 
-[![View Repository](https://img.shields.io/badge/View-Original%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Sumo-Ball)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Sumo-Ball) [![Play Game](https://img.shields.io/badge/Play%20Game-00A86B?style=for-the-badge&logo=gamejolt&logoColor=white)](#)
 
 ![Sumo Ball Banner](images/Banner.png)
 
@@ -52,3 +52,4 @@ C#
 ## Development Date
 
 November 2024
+

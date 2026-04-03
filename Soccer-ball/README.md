@@ -2,7 +2,7 @@
 
 Soccer-inspired challenge game focused on precision control, timing, and obstacle navigation.
 
-[![View Repository](https://img.shields.io/badge/View-Original%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Challenge-Soccer-ball)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Challenge-Soccer-ball) [![Play Game](https://img.shields.io/badge/Play%20Game-00A86B?style=for-the-badge&logo=gamejolt&logoColor=white)](#)
 
 ![Challenge Soccer Ball Banner](images/Banner.png)
 
@@ -50,3 +50,4 @@ C#
 ## Development Date
 
 November 2024
+

@@ -2,7 +2,7 @@
 
 Arcade click-and-react game built around quick interactions, timing, and scoring.
 
-[![View Original Repository](https://img.shields.io/badge/View-Original%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Clicky-Crates)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dheolarh/Clicky-Crates) [![Play Game](https://img.shields.io/badge/Play%20Game-00A86B?style=for-the-badge&logo=gamejolt&logoColor=white)](#)
 
 ![Game Splash Screen](https://opengraph.githubassets.com/1/Dheolarh/Clicky-Crates)
 
@@ -32,6 +32,4 @@ C#, ShaderLab, HLSL
 
 November 2024
 
-## Repository
 
-- **Original Repository:** https://github.com/Dheolarh/Clicky-Crates
