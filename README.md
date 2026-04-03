@@ -21,7 +21,7 @@ Interactive game prototype with gameplay loops centered on player progression.
 
 ---
 
-### 4. [Hero of the North](hero-of-the-north/)
+### 4. [Hero of the North](Hero-of-the-North/)
 Action-adventure project with level progression, combat mechanics, and exploration.
 
 ---
